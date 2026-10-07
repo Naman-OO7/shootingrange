@@ -1,0 +1,6 @@
+{
+  "name": "Holland & Holland | Fine British Gunmakers Since 1835",
+  "description": "Holland & Holland - Quintessential British luxury gunmakers, world-renowned shooting grounds, bespoke sporting apparel, and prestigious gunrooms in London and Dallas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
